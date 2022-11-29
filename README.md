@@ -23,10 +23,6 @@
 
 ## Techs behind
 + [Electron](http://electron.atom.io/)
-+ [Angular](https://angular.io/)
-+ [ng-Bootstrap](https://ng-bootstrap.github.io/)
-+ [Typescript](https://www.typescriptlang.org/)
-+ [Electron Builder](https://www.electron.build/)
 + [Nativefier](https://npmjs.org/nativefier)
 
 ## License
