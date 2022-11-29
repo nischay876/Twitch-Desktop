@@ -25,6 +25,10 @@
 + [Electron](http://electron.atom.io/)
 + [Nativefier](https://npmjs.org/nativefier)
 
+## Build your own
+``` npm i -g nativefier
+curl -LO https://twitchdesktop.nischay.ovh/twitch.ico 
+nativefier --disable-dev-tools --tray -n Twitch -c -i "./twitch.ico" --maximize --single-instance --disk-cache-size 21474836480 https://www.twitch.tv --user-agent firefox --ignore-certificate
 ## License
 ```
 MIT License
