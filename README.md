@@ -8,6 +8,28 @@
 
 ![1](https://i.imgur.com/ICK792T.png)
 
+## Working right now
++ Browse games and live streams
++ Play live streams
++ User login and current online streams list
++ Chat
++ Autoupdater
++ Notifications
++ OTP
++ Stay in Tray
++ Browse and play VODs
++ Ability to follow streams and games
++ Chromecast support
+
+## Techs behind
++ [Electron](http://electron.atom.io/)
++ [Angular](https://angular.io/)
++ [ng-Bootstrap](https://ng-bootstrap.github.io/)
++ [Typescript](https://www.typescriptlang.org/)
++ [Electron Builder](https://www.electron.build/)
++ [Nativefier](https://npmjs.org/nativefier)
+
+## License
 ```
 MIT License
 
