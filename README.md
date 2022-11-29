@@ -29,7 +29,7 @@
 ```
 npm i -g nativefier
 curl -LO https://twitchdesktop.nischay.ovh/twitch.ico 
-nativefier --disable-dev-tools --tray -n Twitch -c -i "./twitch.ico" --maximize --single-instance --disk-cache-size 21474836480 https://www.twitch.tv --user-agent firefox --ignore-certificate
+nativefier --disable-dev-tools --tray -n Twitch -c -i "./twitch.ico" -p win32 -a x64 --maximize --single-instance --disk-cache-size 21474836480 https://www.twitch.tv --user-agent firefox --ignore-certificate
 ```
 ## License
 ```
