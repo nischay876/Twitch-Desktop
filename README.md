@@ -26,9 +26,11 @@
 + [Nativefier](https://npmjs.org/nativefier)
 
 ## Build your own
-``` npm i -g nativefier
+```
+npm i -g nativefier
 curl -LO https://twitchdesktop.nischay.ovh/twitch.ico 
 nativefier --disable-dev-tools --tray -n Twitch -c -i "./twitch.ico" --maximize --single-instance --disk-cache-size 21474836480 https://www.twitch.tv --user-agent firefox --ignore-certificate
+```
 ## License
 ```
 MIT License
@@ -52,5 +54,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
 
